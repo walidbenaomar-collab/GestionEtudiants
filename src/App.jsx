@@ -31,6 +31,7 @@ function App() {
                                    {/*  <FormulaireEtudiant/> */}
 <h1>Gestion des étudiants</h1>
 <p>Bienvenue dans notre application React</p>
+<button>Ajouter un étudiant</button>
 </div>
   )
 }
