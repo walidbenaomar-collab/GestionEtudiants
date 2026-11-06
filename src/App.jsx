@@ -8,27 +8,11 @@ function App() {
   
   return (
 <div>
-{/*
-<Etudiant nom="Alami"
-        prenom="Ahmed"
-        age={20}
-        filiere="DAI"/>
 
-  <Etudiant nom="Benali"
-        prenom="sara"
-        age="{21}"
-        filiere="DS"/>
-
-  <Etudiant nom="Idrissi"
-        prenom="Youssef"
-        age="{19}"
-        filiere="DAI"/>
-
-        */}
 <ListeEtudiants/>
    
                                     
-                                   {/*  <FormulaireEtudiant/> */}
+ <h2>Gestion des étudiants BTS DAI</h2>                                   {/*  <FormulaireEtudiant/> */}
 <h1>Application de gestion des étudiants</h1>
 <p>Bienvenue dans notre application React</p>
 <button>Ajouter un étudiant</button>
